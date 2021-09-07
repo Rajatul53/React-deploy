@@ -1,0 +1,16 @@
+.search {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 20px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    margin: auto;
+   
+  }
+  
+  input[type="search"]{
+    width: 40%;
+    border-radius: 7px;
+    height: 40px;
+  }
